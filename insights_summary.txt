@@ -1,0 +1,80 @@
+
+================================================
+Superstore Sales Analysis
+Key Business Insights
+Author: Taimoor Ghalib
+================================================
+
+1. EXECUTIVE OVERVIEW
+------------------------------
+Total Revenue    = $2,261,536.78
+Avg Shipping     = 4.0 Days
+Finding: Business generates over $2.2M
+in total revenue with stable 4-day
+delivery performance.
+
+2. GEOGRAPHIC PERFORMANCE
+------------------------------
+West    = $710,219.68 | 3140 Orders
+East    = $669,518.73 | 2785 Orders
+Central = $492,646.91 | 2277 Orders
+South   = $389,151.46 | 1598 Orders
+Finding: West and East generate over
+60% of total revenue. South region
+is severely underperforming.
+
+3. TOP PRODUCTS
+------------------------------
+Phones      = $327,782.45
+Chairs      = $322,822.73
+Storage     = $219,343.39
+Tables      = $202,810.63
+Binders     = $200,028.79
+Finding: Phones and Chairs are the
+top cash generators. All top products
+maintain stable 4-day delivery.
+
+4. VIP CUSTOMERS
+------------------------------
+Sean Miller    = $25,043.05 | 5 Orders
+Tamara Chand   = $19,052.22 | 5 Orders
+Raymond Buch   = $15,117.34 | 6 Orders
+Tom Ashbrook   = $14,595.62 | 4 Orders
+Adrian Barton  = $14,473.57 | 10 Orders
+Finding: Sean Miller spends $5,000
+per trip (high ticket buyer). Adrian
+Barton is most loyal with 10 orders.
+
+5. YEAR OVER YEAR GROWTH
+------------------------------
+2015 = $479,856.21 | 1953 Orders
+2016 = $459,436.01 | 2055 Orders
+2017 = $600,192.55 | 2534 Orders
+2018 = $722,052.02 | 3258 Orders
+Finding: 2016 showed revenue dip
+despite more orders suggesting
+heavy discounting. 2017-2018 showed
+explosive 30% growth recovery.
+
+6. MONTHLY SEASONALITY
+------------------------------
+November  = $350,161.71 (Peak)
+December  = $321,480.17
+September = $300,103.41
+February  = $59,371.12 (Lowest)
+Finding: 47% of annual revenue comes
+from September to December. February
+is the weakest month at only $59K.
+
+================================================
+KEY RECOMMENDATIONS
+================================================
+1. Stock Phones and Chairs heavily
+   before September for holiday surge.
+2. Run clearance promotions in January
+   and February to boost slow season.
+3. Increase marketing budget in West
+   and East regions for maximum ROI.
+4. Investigate South region weakness
+   and consider budget reallocation.
+================================================
